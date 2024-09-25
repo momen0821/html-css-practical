@@ -74,6 +74,9 @@ section>div {
     font-size: 24px;
     font-weight: bold;
 }
+#about li {
+  font-size: 18px;
+}
 
 /* works */
 #works img {
